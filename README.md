@@ -57,8 +57,9 @@ $USER/RESULT
 ![아키텍처](https://github.com/user-attachments/assets/885d8b6c-1224-4665-9956-ca903c5c0d41)
 
 
-### summary
+### Summary
 
+'AdamW'를 사용한 초기 학습 단계부터 시작한 다음 'RMSprop'을 사용하여 미세 조정하는 이 프로세스의 최종 결과는 이론적으로 원래 모델의 학습을 계속하는 것과 유사하지만 옵티마이저를 중간에 전환한다는 차별점이 있다.
 
 ### 공식 URL
 * densenet121 : https://pytorch.org/vision/main/models/generated/torchvision.models.densenet121.html
