@@ -38,7 +38,7 @@ $USER/RESULT
 ├── FT_RMSdragon.pth : 최종적으로 학습된 모델
 ├── BEST_TL_AdamWdragon.pth : 최적 성능일때 저장된 모델
 └── fin_tuned_model_AdamWRMSdragon2.csv : 추론을 돌린 결과
-
+```
 ---
 
 ### 학습(TRAIN) 순서 및 방법 
