@@ -16,7 +16,7 @@ $USER/RESULT
 └── fin_tuned_model_AdamWRMSdragon2.csv
 
 ```
-
+```
 ├── TRAIN : 학습에 필요한 TL_AdamW.py, FT_RMSprop.py 파일을 담은 폴더
     ├── TL_AdamW.py :
 		**AdamW optimizer를 이용해 Transfer learning을 진행(공식문서참고 및 실험적으로 파라미터 결정)**
