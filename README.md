@@ -72,4 +72,3 @@ $USER/RESULT
 	- cuda : runtimeAPI 11.3, driverAPI 11.7
 	- os : Ubuntu 20.04 LTS
 	
-hi
