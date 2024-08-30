@@ -51,7 +51,11 @@ $USER/RESULT
 1. 'python3.9 predict_AdamWRMSprop.py' 실행
 2. 'USER/RESULT/' 내에 결과 파일(fin_tuned_model_AdamWRMSdragon2.csv)이 저장됨
 
+
+------------------------------------------------------------------------------------
+### Architecture
 ![아키텍처](https://github.com/user-attachments/assets/885d8b6c-1224-4665-9956-ca903c5c0d41)
+
 
 
 
