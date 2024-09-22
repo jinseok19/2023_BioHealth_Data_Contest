@@ -9,7 +9,7 @@ $USER/RESULT
 │   ├── TL_AdamW.py
 │   └── FT_RMSprop.py 
 ├────TEST/
-│  ├── predict_AdamWRMSprop.py
+│   ├── predict_AdamWRMSprop.py
 ├── README.md
 ├── FT_RMSdragon.pth
 ├── BEST_TL_AdamWdragon.pth
