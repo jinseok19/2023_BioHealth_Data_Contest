@@ -81,4 +81,6 @@ $USER/RESULT
 	- python : 3.9.18
 	- cuda : runtimeAPI 11.3, driverAPI 11.7
 	- os : Ubuntu 20.04 LTS
-	
+
+
+thanks you
