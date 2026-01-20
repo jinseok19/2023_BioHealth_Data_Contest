@@ -83,4 +83,4 @@ $USER/RESULT
 	- os : Ubuntu 20.04 LTS
 
 
-thanks
+thanks you
